@@ -19,7 +19,7 @@ when the cart subtotal reaches a certain threshold.
 ## Install the App
 
 1. Clone the respository:
-    git clone
+    git clone https://github.com/SanojS31/shopping-cart
     cd shopping-cart
 
 2 Install Dependencies:
